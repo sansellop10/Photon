@@ -54,7 +54,7 @@ class Overlay(QWidget):
         layout = QVBoxLayout()
 
         # Labels
-        self.title = QLabel("photon")
+        self.title = QLabel("Estadisticas")
         self.cpu_label = QLabel()
         self.ram_label = QLabel()
         self.net_label = QLabel()
